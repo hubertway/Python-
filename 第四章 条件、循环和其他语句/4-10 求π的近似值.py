@@ -9,3 +9,5 @@ while True:
     m1 = m2
     m2 += 1/s**2
     s += 1
+
+    
